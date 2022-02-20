@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammxr&label=Profile%20views&color=129e00&style=plastic" alt="ammxr" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/bsXNwwj/mdPic.jpg">
-Hi, I'm Ammar; an avid tech enthusiast! I love programming, the ideology of learning a language to communicate with the future. Talking with machines evolving faster than humankind. Within my GitHub you will find some of the many projects I contribute too. 
+Hi, I'm Ammar; an avid tech enthusiast! I love programming, the ideology of learning a language to communicate with the future. Talking with machines evolving faster than humankind. Within my GitHub you will find some of the many projects I contribute to. 
 
 **Schedule/Info**
 - Full-time student at John Fraser Secondary School
