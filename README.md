@@ -16,7 +16,7 @@ Hi, I'm Ammar; an avid tech enthusiast! I love programming, the ideology of lear
 - Logo/Graphics Design
 - Video Editing 
 
-I hope to advance purpose to my skills by pursuiing a career in Computer Science or Mechatronics Engineering!
+I hope to advance purpose to my skills by pursuing a career in Computer Science or Mechatronics Engineering!
 
 
 
