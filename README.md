@@ -6,17 +6,18 @@
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/bsXNwwj/mdPic.jpg">
 Hi, I'm Ammar; an avid tech enthusiast! I love programming, the ideology of learning a language to communicate with the future. Talking with machines evolving faster than humankind. Within my GitHub you will find some of the many projects I contribute too.  
   
-**Schedule/Info**
-- Full-time student at John Fraser Secondary School
-- Part-time Teacher at Best Brains Learning Center
-- Volunteer Teacher's Assistant @ Taleem Academy
+**Education**
+I am currently a full-time student at Toronto Metropolitan University studying for a BASc (Hons) in Computer Science.
+
+**Checkout my experience portfolio on my LinkedIn!**
+https://www.linkedin.com/in/ammar-hakim-80493a222/
 
 **Hobbies**
-- Programming: Python and Web-Dev
+- Programming: Python, Web-Dev, C# (Learning)
 - Logo/Graphics Design
 - Video Editing 
 
-I hope to advance purpose to my skills by pursuing a career in Computer Science or Mechatronics Engineering!
+I hope to advance purpose to my skills by pursuing a career in the advancement of artificial intelligence. 
 
 
 
