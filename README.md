@@ -9,7 +9,7 @@ Hi, I'm Ammar; an avid tech enthusiast! I love programming, the ideology of lear
 **Education**
 I am currently a full-time student at Toronto Metropolitan University studying for a BASc (Hons) in Computer Science.
 
-**Checkout my experience portfolio on my LinkedIn!**
+**Checkout my experience portfolio on LinkedIn!**
 https://www.linkedin.com/in/ammar-hakim-80493a222/
 
 **Hobbies**
